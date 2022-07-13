@@ -1,0 +1,5 @@
+https://www.pianshen.com/article/8319853753/      AFL操作
+
+覆盖率：边、分支、块、函数
+遗传算法
+黑盒peach+灰盒
